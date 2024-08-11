@@ -1,0 +1,35 @@
+html,
+body{
+    margin: 100;
+    background-color: rgb(221, 31, 180);
+}
+.TO_DO APP{
+    height:500px;
+    width:400px;
+    margin: 200px auto;
+    background-color: rgb(237, 219, 219);
+    border-radius: 150px;
+    padding: 30px;
+    border: 10px;
+}
+#heading{
+    color:rgb(8, 1, 6);
+    letter-spacing: 1px;
+    display: flex;
+    justify-content: center;
+
+
+}
+#input{
+    border-radius: 5px;
+    border: 2px solid black;
+    margin-top: 30px;
+    height: 2em;
+    width:250px;
+    padding-left: 10px;
+}
+#add{
+    margin: 10% auto;
+    
+   
+}
